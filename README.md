@@ -1,9 +1,7 @@
 <h1 align="left">Olá 👋, Eu sou Kaio Oliveira</h1>
 <h3 align="left">Sobre mim</h3>
 <p align="left">🎓 Estudante de Desenvolvimento Web Full Stack pela Trybe.</p>
-
-<p align="left">💬 Pode entrar em contato comigo via Linkedin que responderei o mais breve possível..</p>
-
+<p align="left">💬 Pode entrar em contato comigo via Linkedin que responderei o mais breve possível.</p>
 <p align="left">📝 Gosto de experimentar novos desafios e conhecer novas tecnologias.</p>
 
 <h3 align="left">Contato:</h3>
