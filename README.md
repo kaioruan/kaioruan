@@ -1,9 +1,12 @@
 <h1 align="center">Olá 👋, Eu sou Kaio Oliveira</h1>
 <h3 align="center">Sobre mim</h3>
+<p align="center">🎓 Estudante de Desenvolvimento Web Full Stack pela Trybe.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaioruan&label=Profile%20views&color=0e75b6&style=flat" alt="kaioruan" /> </p>
+<p align="center">💬 Pode entrar em contato comigo via Linkedin que responderei o mais breve possível..</p>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">📝 Gosto de experimentar novos desafios e conhecer novas tecnologias.</p>
+
+<h3 align="left">Contato:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/kaioruan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kaioruan" height="30" width="40" /></a>
 </p>
