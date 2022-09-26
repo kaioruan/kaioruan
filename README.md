@@ -27,11 +27,8 @@ src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-
 <span><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kaioruan&" alt="kaioruan" width="400px" /></span>
 
 
-<br /><br />
-<p align="left">
   <h3 align="left">Projetos de Orgulho</h3>
 
 <div width="100%" align="center"><a href="https://github.com/kaioruan/myRecipe-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=myRecipe-app&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kaioruan/sequelize-blogs-api" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=sequelize-blogs-api&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<div width="100%" align="center"><a href="https://github.com/kaioruan/store-manager" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=store-manager&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kaioruan/project-trivia-react-redux" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=project-trivia-react-redux&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-</p>
+<div width="100%" align="center"><a href="https://github.com/kaioruan/store-manager" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=store-manager&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kaioruan/project-trivia-react-redux" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=project-trivia-react-redux&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
