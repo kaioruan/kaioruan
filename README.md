@@ -11,6 +11,7 @@ src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-
 <p align="left">
  <a href="https://www.linkedin.com/in/kaioruan" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kaio Oliveira Linkedin"/></a>
 <a href="mailto:kaio.ruan@souunit.com.br" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kaio Oliveira Email"/></a>
+ <a href="http://wa.me/5579988261410" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Kaio Oliveira WhatsApp"/></a>
 </p>
 <h3 align="left">Linguagens:</h3>
 <p align="left">
