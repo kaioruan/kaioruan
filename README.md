@@ -12,9 +12,10 @@ src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-
 <a href="https://www.linkedin.com/in/kaioruan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kaioruan" height="30" width="40" /></a>
 </p>
 <h3 align="left">Linguagens:</h3>
+<p align="left">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="css3" width="40" height="40"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="css3" width="40" height="40"/>
-
+</p>
 <h3 align="left">Ferramentas:</h3>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="css3" width="40" height="40"/>
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="css3" width="40" height="40"/>
