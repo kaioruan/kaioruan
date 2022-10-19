@@ -9,7 +9,8 @@ src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-
 
 <h3 align="left">Contato:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kaioruan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kaioruan" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/kaioruan" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kaio Oliveira Linkedin"/></a>
+<a href="mailto:kaio.ruan@souunit.com.br" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kaio Oliveira Email"/></a>
 </p>
 <h3 align="left">Linguagens:</h3>
 <p align="left">
@@ -26,6 +27,8 @@ src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="css3" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="css3" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="css3" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode Badge"/>
+<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku Badge"/>
  </p>
 
 <h3 align="left">Frontend:</h3>
