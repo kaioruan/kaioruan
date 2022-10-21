@@ -47,6 +47,7 @@ src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="css3"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="css3"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="css3"/>
+ <img src="https://user-images.githubusercontent.com/98183352/197245910-96b870c8-ef6a-4879-bfe2-4b4afb392fe0.png" alt="Mongoose" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="css3"/>
 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku Badge"/>
  </p>
