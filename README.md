@@ -16,21 +16,11 @@ src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-
 <h3 align="left">Linguagens:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"/>
- <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=TypeScript&logoColor=F7DF1E" alt="TS"/>
+ <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=TypeScript&logoColor=black" alt="TS"/>
 </p>
 <h3 align="left">Ferramentas:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/JWT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JWT"/>
-  <img src="https://img.shields.io/badge/json-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JSON"/>
-  <img src="https://img.shields.io/badge/eslint-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="ESLINT"/>
-  <img src="https://img.shields.io/badge/Trello-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="TRELLO"/>
-  <img src="https://img.shields.io/badge/Ubuntu-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/NPM-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="NPM"/>
-  <img src="https://img.shields.io/badge/git-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="git"/>
-  <img src="https://img.shields.io/badge/github-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="github"/>
-  <img src="https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="VSCode"/>
- 
- 
+
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLINT" />
