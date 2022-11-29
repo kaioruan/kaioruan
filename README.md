@@ -65,7 +65,7 @@ src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-
 
 <div width="100%" align="center"><a href="https://github.com/kaioruan/sequelize-blogs-api" align="right"><img align="right" width="45%" height="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=sequelize-blogs-api&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kaioruan/store-manager" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=store-manager&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br />
  </p>
- 
+ <p align="left">
 <h2>Codigo</h2>
 
 <div align="center">
@@ -74,6 +74,7 @@ src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-
   <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioruan&langs_count=8&theme=vision-friendly-dark&hide_border=true">
 </div>
 </div>
+ </p>
 
 
 
