@@ -59,18 +59,19 @@ src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-
 <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="RTL"/>
  </p>
 
-
-<h2>Projetos de Orgulho</h2>
-<div width="100%" align="center"><a href="https://github.com/kaioruan/myRecipe-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=myRecipe-app&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kaioruan/ts-trybe-futebol-clube" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=ts-trybe-futebol-clube&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<div width="100%" align="center"><a href="https://github.com/kaioruan/sequelize-blogs-api" align="right"><img align="right" width="45%" height="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=sequelize-blogs-api&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kaioruan/store-manager" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=store-manager&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br />
-
 <div align="center">
   <div align='center'>
   <img align="left" height="194px" src="https://github-readme-stats.vercel.app/api?username=kaioruan&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioruan&langs_count=8&theme=vision-friendly-dark&hide_border=true">
 </div>
 </div>
+<br />
+<h2>Projetos de Orgulho</h2>
+<div width="100%" align="center"><a href="https://github.com/kaioruan/myRecipe-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=myRecipe-app&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kaioruan/ts-trybe-futebol-clube" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=ts-trybe-futebol-clube&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<div width="100%" align="center"><a href="https://github.com/kaioruan/sequelize-blogs-api" align="right"><img align="right" width="45%" height="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=sequelize-blogs-api&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kaioruan/store-manager" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=store-manager&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br />
+
+
 
 
 
