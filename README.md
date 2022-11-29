@@ -16,6 +16,7 @@ src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-
 <h3 align="left">Linguagens:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"/>
+ <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="TS"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
 </p>
 <h3 align="left">Ferramentas:</h3>
