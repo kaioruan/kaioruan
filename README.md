@@ -59,8 +59,13 @@ src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-
 <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="RTL"/>
  </p>
 
-
+<div align="center">
+  <div align='center'>
+  <img height="194px" src="https://github-readme-stats.vercel.app/api?username=kaioruan&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
 <a href="http://www.github.com/kaioruan"><img src="https://github-readme-stats.vercel.app/api?username=kaioruan&show_icons=true&hide=stars,issues,&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kaioruan's GitHub stats" /></a>
+</div>
+ </div>
+
 
 <h2>Projetos de Orgulho</h2>
 <div width="100%" align="center"><a href="https://github.com/kaioruan/myRecipe-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=myRecipe-app&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kaioruan/ts-trybe-futebol-clube" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaioruan&repo=ts-trybe-futebol-clube&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
