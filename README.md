@@ -26,9 +26,9 @@ src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-
 <img src="https://img.shields.io/badge/eslint-323330?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLINT" />
 <img src="https://img.shields.io/badge/Trello-323330?style=for-the-badge&logo=trello&logoColor=white" alt="TRELLO"/>
 <img src="https://img.shields.io/badge/Ubuntu-323330?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-<img src="https://img.shields.io/badge/NPM-%323330.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-<img src="https://img.shields.io/badge/git-%323330.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/github-%323330.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+<img src="https://img.shields.io/badge/NPM-323330?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+<img src="https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/github-323330?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
 <img src="https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode Badge"/>
  </p>
 
