@@ -9,7 +9,7 @@
 src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
  <img alt="Profile visitors" width="15%" src="https://komarev.com/ghpvc/?username=kaioruan"/>
-  <img alt="Stars" width="15%" src="https://img.shields.io/github/stars/kaioruan?style=social"/>
+  <img alt="Stars" width="10%" src="https://img.shields.io/github/stars/kaioruan?style=social"/>
 
 <h3 align="left">Contato:</h3>
 <p align="left">
