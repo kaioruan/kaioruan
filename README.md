@@ -8,9 +8,12 @@
 <a href="https://www.github.com/kaioruan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=kaioruan"/>
- <img alt="Stars" src="https://img.shields.io/github/stars/kaioruan?style=social"/>
-
+<p>
+ <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=kaioruan"/>
+ <p/>
+ <p>
+  <img alt="Stars" src="https://img.shields.io/github/stars/kaioruan?style=social"/>
+ <p/>
 
 <h3 align="left">Contato:</h3>
 <p align="left">
