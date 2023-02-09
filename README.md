@@ -4,8 +4,13 @@
 <p align="left">💬 Pode entrar em contato comigo via Linkedin que responderei o mais breve possível.</p>
 <p align="left">📝 Gosto de experimentar novos desafios e conhecer novas tecnologias.</p>
 
+<div>
 <a href="https://www.github.com/kaioruan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=kaioruan"/>
+ <img alt="Stars" src="https://img.shields.io/github/stars/kaioruan?style=social"/>
+ <div/>
 
 <h3 align="left">Contato:</h3>
 <p align="left">
