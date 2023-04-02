@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"/>
  <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=TypeScript&logoColor=blue" alt="TS"/>
-  <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=TypeScript&logoColor=blue" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=Java&logoColor=blue" alt="Java"/>
 </p>
 <h3 align="left">Ferramentas:</h3>
 <p align="left">
@@ -56,9 +56,9 @@ src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-
  <img src="https://user-images.githubusercontent.com/98183352/197245910-96b870c8-ef6a-4879-bfe2-4b4afb392fe0.png" alt="Mongoose" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku Badge"/>
-  <img src="https://img.shields.io/badge/Hibernate-323330?style=for-the-badge&logo=TypeScript&logoColor=blue" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/SpringBoot-323330?style=for-the-badge&logo=TypeScript&logoColor=blue" alt="STS"/>
-  <img src="https://img.shields.io/badge/Maven-323330?style=for-the-badge&logo=TypeScript&logoColor=blue" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Hibernate-323330?style=for-the-badge&logo=Hibernate&logoColor=blue" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/SpringBoot-323330?style=for-the-badge&logo=SpringBoot&logoColor=blue" alt="STS"/>
+  <img src="https://img.shields.io/badge/Maven-323330?style=for-the-badge&logo=Maven&logoColor=blue" alt="Maven"/>
  </p>
 <h3 align="left">Testing:</h3>
 <p align="left">
