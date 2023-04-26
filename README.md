@@ -1,6 +1,6 @@
 <h1 align="left">Olá 👋, Eu sou Kaio Oliveira</h1>
 <h3 align="left">Sobre mim</h3>
-<p align="left">🎓 Estudante de Desenvolvimento Web Full Stack pela Trybe.</p>
+<p align="left">🎓 Desenvolvedor Fullstack formado pela Trybe.</p>
 <p align="left">💬 Pode entrar em contato comigo via Linkedin que responderei o mais breve possível.</p>
 <p align="left">📝 Gosto de experimentar novos desafios e conhecer novas tecnologias.</p>
 
@@ -82,9 +82,3 @@ src="https://img.shields.io/github/followers/kaioruan?logo=github&style=for-the-
   <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioruan&langs_count=8&theme=vision-friendly-dark&hide_border=true">
 </div>
 </div>
-
-
-
-
-
-
